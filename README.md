@@ -2,7 +2,7 @@
 
 Prazer, Sou Rodrigo! Um cara que adora tecnologia👨‍💻
 
--   🎓Graduando em Análise de Sistema na  Fatec Franca.
+-   🎓Graduando em Análise E Desenvolvimento De Sistemas na  Fatec Franca.
 -   🎓Graduado em  Matemática.
 -   📚Estou aprendendo: Javascript, Html, Css.
 -   🎯  Tenho interesse: ReactNative, SQL.
