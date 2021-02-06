@@ -1,6 +1,6 @@
 ##  Welcome!
 
-    # Hi, I'm Rodrigo Santos👨‍💻
+     Hi, I'm Rodrigo Santos👨‍💻
 
 -   🎓Graduating in Systems Development Analysis at Fatec Franca.
 -   🎓Degree in mathematics.
